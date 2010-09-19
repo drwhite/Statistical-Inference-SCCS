@@ -1,0 +1,11 @@
+Package: sccs
+Type: Package
+Title: Tools For Analyzing The Standard Cross Cultural Sample
+Version: 1.0
+Date: 2010-04-20
+Author: Scott D. White, Douglas R. White, Malcom Dow, E. Anthon Eff 
+Maintainer: Scott D. White <scottblanc@gmail.com>
+Description: Tools For Analyzing The Standard Cross Cultural Sample
+License: GPL-2
+Suggests: foreign, mice, spdep, car, lmtest, sandwich
+Packaged: 2010-05-15 17:14:47 UTC; admin
